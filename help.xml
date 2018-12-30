@@ -1,0 +1,23 @@
+<translation>
+    <Rows id="1" name="modules/help.go:1">
+        <value></value>
+        <!--Contact me in PM for help!-->
+    </Rows>
+    <Rows id="2" name="modules/help.go:2">
+        <value></value>
+        <!--Click me for help!-->
+    </Rows>
+    <Rows id="3" name="modules/help.go:3">
+        <value></value>
+        <!--
+ All commands can be used with the following: {1}-->
+    </Rows>
+    <Rows id="4" name="modules/help.go:4">
+        <value></value>
+        <!--No help message affiliated with {1}-->
+    </Rows>
+    <Rows id="5" name="modules/help.go:5">
+        <value></value>
+        <!--Back-->
+    </Rows>
+</translation>

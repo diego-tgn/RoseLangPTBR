@@ -1,0 +1,42 @@
+<translation>
+    <Rows id="1" name="modules/filters.go:1">
+        <value></value>
+        <!--not enough args-->
+    </Rows>
+    <Rows id="2" name="modules/filters.go:2">
+        <value></value>
+        <!--You haven't saved any filters on this word yet!-->
+    </Rows>
+    <Rows id="3" name="modules/filters.go:3">
+        <value></value>
+        <!--Filter '<code>{1}</code>' has been stopped!-->
+    </Rows>
+    <Rows id="4" name="modules/filters.go:4">
+        <value></value>
+        <!--No filters in {1}!-->
+    </Rows>
+    <Rows id="5" name="modules/filters.go:5">
+        <value></value>
+        <!--List of filters in {1}:-->
+    </Rows>
+    <Rows id="6" name="modules/filters.go:6">
+        <value></value>
+        <!--filters, continued:-->
+    </Rows>
+    <Rows id="7" name="modules/filters.go:7">
+        <value></value>
+        <!--You need to give the filter a name!-->
+    </Rows>
+    <Rows id="8" name="modules/filters.go:8">
+        <value></value>
+        <!--You need to give the filter some content!-->
+    </Rows>
+    <Rows id="9" name="modules/filters.go:9">
+        <value></value>
+        <!--A filter has to contain more than just buttons; it wasn't saved.-->
+    </Rows>
+    <Rows id="10" name="modules/filters.go:10">
+        <value></value>
+        <!--Saved filter '<code></code>'.-->
+    </Rows>
+</translation>

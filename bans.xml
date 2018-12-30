@@ -1,0 +1,232 @@
+<translation>
+    <Rows id="1" name="modules/bans.go:1">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="2" name="modules/bans.go:2">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="3" name="modules/bans.go:3">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="4" name="modules/bans.go:4">
+        <value></value>
+        <!--You know what I'm not going to do? Ban myself.-->
+    </Rows>
+    <Rows id="5" name="modules/bans.go:5">
+        <value></value>
+        <!--Why would I ban an admin? That sounds like a pretty dumb idea.-->
+    </Rows>
+    <Rows id="6" name="modules/bans.go:6">
+        <value></value>
+        <!--I haven't got the rights to do this.-->
+    </Rows>
+    <Rows id="7" name="modules/bans.go:7">
+        <value></value>
+        <!--I'm not going to ban an admin!-->
+    </Rows>
+    <Rows id="8" name="modules/bans.go:8">
+        <value></value>
+        <!--Another one bites the dust...!
+Banned {1}.-->
+    </Rows>
+    <Rows id="9" name="modules/bans.go:9">
+        <value></value>
+        <!--Another one bites the dust...!
+Banned {1} for {2}.-->
+    </Rows>
+    <Rows id="10" name="modules/bans.go:10">
+        <value></value>
+        <!--
+Reason:
+-->
+    </Rows>
+    <Rows id="11" name="modules/bans.go:11">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="12" name="modules/bans.go:12">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="13" name="modules/bans.go:13">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="14" name="modules/bans.go:14">
+        <value></value>
+        <!--This person hasn't been banned... how am I meant to unban them?-->
+    </Rows>
+    <Rows id="15" name="modules/bans.go:15">
+        <value></value>
+        <!--I haven't got the rights to do this.-->
+    </Rows>
+    <Rows id="16" name="modules/bans.go:16">
+        <value></value>
+        <!--I'm not going to ban admin!-->
+    </Rows>
+    <Rows id="17" name="modules/bans.go:17">
+        <value></value>
+        <!--Fine, they can join again.-->
+    </Rows>
+    <Rows id="18" name="modules/bans.go:18">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="19" name="modules/bans.go:19">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="20" name="modules/bans.go:20">
+        <value></value>
+        <!--Yeahhh, I'm not going to kick myself.-->
+    </Rows>
+    <Rows id="21" name="modules/bans.go:21">
+        <value></value>
+        <!--I'm not gonna kick an admin... Though I reckon it'd be pretty funny.-->
+    </Rows>
+    <Rows id="22" name="modules/bans.go:22">
+        <value></value>
+        <!--I haven't got the rights to do this.-->
+    </Rows>
+    <Rows id="23" name="modules/bans.go:23">
+        <value></value>
+        <!--I'm not going to kick an admin!-->
+    </Rows>
+    <Rows id="24" name="modules/bans.go:24">
+        <value></value>
+        <!--I've kicked {1}.-->
+    </Rows>
+    <Rows id="25" name="modules/bans.go:25">
+        <value></value>
+        <!--
+Reason:
+-->
+    </Rows>
+    <Rows id="26" name="modules/bans.go:26">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="27" name="modules/bans.go:27">
+        <value></value>
+        <!--Ha, I'm not kicking you, you're an admin! You're stuck with everyone here.-->
+    </Rows>
+    <Rows id="28" name="modules/bans.go:28">
+        <value></value>
+        <!--I haven't got the rights to do this.-->
+    </Rows>
+    <Rows id="29" name="modules/bans.go:29">
+        <value></value>
+        <!--You're an admin; if you want to leave, you're going to have to do it yourself!-->
+    </Rows>
+    <Rows id="30" name="modules/bans.go:30">
+        <value></value>
+        <!--Yeah, you're right - get out.-->
+    </Rows>
+    <Rows id="31" name="modules/bans.go:31">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="32" name="modules/bans.go:32">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="33" name="modules/bans.go:33">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="34" name="modules/bans.go:34">
+        <value></value>
+        <!--You know what I'm not going to do? Mute myself.-->
+    </Rows>
+    <Rows id="35" name="modules/bans.go:35">
+        <value></value>
+        <!--Ehhh, I'd rather not get involved in muting an admin. I'll stick to muting normal users, thanks.-->
+    </Rows>
+    <Rows id="36" name="modules/bans.go:36">
+        <value></value>
+        <!--I haven't got the rights to mute people.-->
+    </Rows>
+    <Rows id="37" name="modules/bans.go:37">
+        <value></value>
+        <!--I'm not going to mute an admin!-->
+    </Rows>
+    <Rows id="38" name="modules/bans.go:38">
+        <value></value>
+        <!--Shhh... quiet now.
+Muted {1}.-->
+    </Rows>
+    <Rows id="39" name="modules/bans.go:39">
+        <value></value>
+        <!--Shhh... quiet now.
+Muted {1} for {2}.-->
+    </Rows>
+    <Rows id="40" name="modules/bans.go:40">
+        <value></value>
+        <!--
+Reason:
+-->
+    </Rows>
+    <Rows id="41" name="modules/bans.go:41">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="42" name="modules/bans.go:42">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="43" name="modules/bans.go:43">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="44" name="modules/bans.go:44">
+        <value></value>
+        <!--This person can already speak freely!-->
+    </Rows>
+    <Rows id="45" name="modules/bans.go:45">
+        <value></value>
+        <!--I haven't got the rights to do this.-->
+    </Rows>
+    <Rows id="46" name="modules/bans.go:46">
+        <value></value>
+        <!--What the...? I can't unmute an admin!-->
+    </Rows>
+    <Rows id="47" name="modules/bans.go:47">
+        <value></value>
+        <!--Fine, they can speak again.-->
+    </Rows>
+    <Rows id="48" name="modules/bans.go:48">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="49" name="modules/bans.go:49">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="50" name="modules/bans.go:50">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="51" name="modules/bans.go:51">
+        <value></value>
+        <!--You haven't specified a time to ban this user for!-->
+    </Rows>
+    <Rows id="52" name="modules/bans.go:52">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="53" name="modules/bans.go:53">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="54" name="modules/bans.go:54">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="55" name="modules/bans.go:55">
+        <value></value>
+        <!--You haven't specified a time to mute this user for!-->
+    </Rows>
+</translation>

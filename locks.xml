@@ -1,0 +1,170 @@
+<translation>
+    <Rows id="1" name="modules/locks.go:1">
+        <value></value>
+        <!--
+The available locktypes are:
+ - all
+ - forward
+ - photo
+ - sticker
+ - gif
+ - video
+ - videonote
+ - audio
+ - voice
+ - document
+ - contact
+ - url
+ - game
+ - location
+ - bots
+ - email
+ - phone
+ - rtl
+-->
+    </Rows>
+    <Rows id="2" name="modules/locks.go:2">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="3" name="modules/locks.go:3">
+        <value></value>
+        <!--
+These are the current lock settings:
+ - all = {1}
+ - forward = {2}
+ - photo = {3}
+ - sticker = {4}
+ - gif = {5}
+ - video = {6}
+ - videonote = {7}
+ - audio = {8}
+ - voice = {9}
+ - document = {10}
+ - contact = {11}
+ - url = {12}
+ - game = {13}
+ - location = {14}
+ - bots = {15}
+ - email = {16}
+ - phone = {17}
+ - rtl = {18}
+-->
+    </Rows>
+    <Rows id="4" name="modules/locks.go:4">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="5" name="modules/locks.go:5">
+        <value></value>
+        <!--You haven't specified a type to unlock.-->
+    </Rows>
+    <Rows id="6" name="modules/locks.go:6">
+        <value></value>
+        <!--Unknown lock types:\n - {1}\nCheck /locktypes!-->
+    </Rows>
+    <Rows id="7" name="modules/locks.go:7">
+        <value></value>
+        <!--Unlocked <code>{1}</code>.-->
+    </Rows>
+    <Rows id="8" name="modules/locks.go:8">
+        <value></value>
+        <!--Unlocked:\n{1}-->
+    </Rows>
+    <Rows id="9" name="modules/locks.go:9">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="10" name="modules/locks.go:10">
+        <value></value>
+        <!--You haven't specified a type to lock.-->
+    </Rows>
+    <Rows id="11" name="modules/locks.go:11">
+        <value></value>
+        <!--Looks like I haven't got the right to delete messages; mind promoting me? Thanks!-->
+    </Rows>
+    <Rows id="12" name="modules/locks.go:12">
+        <value></value>
+        <!--Unknown lock types:\n - {1}\nCheck /locktypes!-->
+    </Rows>
+    <Rows id="13" name="modules/locks.go:13">
+        <value></value>
+        <!--Unknown lock type: {1}. Check /locktypes!-->
+    </Rows>
+    <Rows id="14" name="modules/locks.go:14">
+        <value></value>
+        <!--Locked <code>{1}</code>.-->
+    </Rows>
+    <Rows id="15" name="modules/locks.go:15">
+        <value></value>
+        <!--Locked:\n{1}-->
+    </Rows>
+    <Rows id="16" name="modules/locks.go:16">
+        <value></value>
+        <!--Only admins can add bots here, sooo... Get out.-->
+    </Rows>
+    <Rows id="17" name="modules/locks.go:17">
+        <value></value>
+        <!--{1} is locked in this chat.-->
+    </Rows>
+    <Rows id="18" name="modules/locks.go:18">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="19" name="modules/locks.go:19">
+        <value></value>
+        <!--There are no whitelisted urls in {1}!-->
+    </Rows>
+    <Rows id="20" name="modules/locks.go:20">
+        <value></value>
+        <!--The following url's are whitelisted in {1}:\n - {2}-->
+    </Rows>
+    <Rows id="21" name="modules/locks.go:21">
+        <value></value>
+        <!--'{1}' added to the whitelist.-->
+    </Rows>
+    <Rows id="22" name="modules/locks.go:22">
+        <value></value>
+        <!--Whitelist updated with {1} urls.-->
+    </Rows>
+    <Rows id="23" name="modules/locks.go:23">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="24" name="modules/locks.go:24">
+        <value></value>
+        <!--You haven't given me any urls to remove from the blacklist!-->
+    </Rows>
+    <Rows id="25" name="modules/locks.go:25">
+        <value></value>
+        <!--'{1}' removed from the whitelist.-->
+    </Rows>
+    <Rows id="26" name="modules/locks.go:26">
+        <value></value>
+        <!--Removed {1} urls from the whitelist-->
+    </Rows>
+    <Rows id="27" name="modules/locks.go:27">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="28" name="modules/locks.go:28">
+        <value></value>
+        <!--I am currently warning all users who try to use locked message types in {1}.-->
+    </Rows>
+    <Rows id="29" name="modules/locks.go:29">
+        <value></value>
+        <!--I am NOT warning all users who try to use locked message types in {1}. I will simply delete the messages.-->
+    </Rows>
+    <Rows id="30" name="modules/locks.go:30">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="31" name="modules/locks.go:31">
+        <value></value>
+        <!--Lock warns have been enabled. Any user using locked messages will be warned, as well has have their message deleted.-->
+    </Rows>
+    <Rows id="32" name="modules/locks.go:32">
+        <value></value>
+        <!--Lock warns have been disabled. Any user using locked messages will no longer be warned, and will only have their message deleted.-->
+    </Rows>
+</translation>

@@ -1,0 +1,26 @@
+<translation>
+    <Rows id="1" name="modules/purges.go:1">
+        <value></value>
+        <!--Reply to a message to show me where to purge from.-->
+    </Rows>
+    <Rows id="2" name="modules/purges.go:2">
+        <value></value>
+        <!--You cannot delete messages over two days old. Please choose a more recent message.-->
+    </Rows>
+    <Rows id="3" name="modules/purges.go:3">
+        <value></value>
+        <!--Invalid integer as argument to purge. Usage: <code>/purge X</code>, where X is an integer.-->
+    </Rows>
+    <Rows id="4" name="modules/purges.go:4">
+        <value></value>
+        <!--Purge complete.-->
+    </Rows>
+    <Rows id="5" name="modules/purges.go:5">
+        <value></value>
+        <!--Reply to a message to let me know what to delete.-->
+    </Rows>
+    <Rows id="6" name="modules/purges.go:6">
+        <value></value>
+        <!--You cannot delete messages over two days old. Please choose a more recent message.-->
+    </Rows>
+</translation>

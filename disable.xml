@@ -1,0 +1,74 @@
+<translation>
+    <Rows id="1" name="modules/disable.go:1">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="2" name="modules/disable.go:2">
+        <value></value>
+        <!--You haven't specified a command to disable.-->
+    </Rows>
+    <Rows id="3" name="modules/disable.go:3">
+        <value></value>
+        <!--Looks like I haven't got the right to delete messages; mind promoting me? Thanks!-->
+    </Rows>
+    <Rows id="4" name="modules/disable.go:4">
+        <value></value>
+        <!--Unknown command to disable:\n - {1}\nCheck /disableable!-->
+    </Rows>
+    <Rows id="5" name="modules/disable.go:5">
+        <value></value>
+        <!--Disabled <code>{1}</code>.-->
+    </Rows>
+    <Rows id="6" name="modules/disable.go:6">
+        <value></value>
+        <!--Disabled:{1}-->
+    </Rows>
+    <Rows id="7" name="modules/disable.go:7">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="8" name="modules/disable.go:8">
+        <value></value>
+        <!--You haven't specified a type to reenable.-->
+    </Rows>
+    <Rows id="9" name="modules/disable.go:9">
+        <value></value>
+        <!--Unknown command to reenable:\n - {1}\nCheck /disableable!-->
+    </Rows>
+    <Rows id="10" name="modules/disable.go:10">
+        <value></value>
+        <!--Enabled <code>{1}</code>.-->
+    </Rows>
+    <Rows id="11" name="modules/disable.go:11">
+        <value></value>
+        <!--Enabled:{1}-->
+    </Rows>
+    <Rows id="12" name="modules/disable.go:12">
+        <value></value>
+        <!--There are no disabled commands in this chat.-->
+    </Rows>
+    <Rows id="13" name="modules/disable.go:13">
+        <value></value>
+        <!--The following commands are disabled in this chat:-->
+    </Rows>
+    <Rows id="14" name="modules/disable.go:14">
+        <value></value>
+        <!--The following commands can be disabled:-->
+    </Rows>
+    <Rows id="15" name="modules/disable.go:15">
+        <value></value>
+        <!--You need to give me a setting; yes/no/on/off-->
+    </Rows>
+    <Rows id="16" name="modules/disable.go:16">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="17" name="modules/disable.go:17">
+        <value></value>
+        <!--Disabled messages will now be deleted.-->
+    </Rows>
+    <Rows id="18" name="modules/disable.go:18">
+        <value></value>
+        <!--Disabled messages will no longer be deleted.-->
+    </Rows>
+</translation>

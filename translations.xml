@@ -1,0 +1,24 @@
+<translation>
+    <Rows id="1" name="modules/translations.go:1">
+        <value></value>
+        <!--No language has been specified!-->
+    </Rows>
+    <Rows id="2" name="modules/translations.go:2">
+        <value></value>
+        <!--Could not determine the language you specified.-->
+    </Rows>
+    <Rows id="3" name="modules/translations.go:3">
+        <value></value>
+        <!--This language isn&#39;t supported yet; the supported languages are:
+- {1}
+;If you would like to contribute more languages, head to @RoseSupport and offer your help! :)-->
+    </Rows>
+    <Rows id="4" name="modules/translations.go:4">
+        <value></value>
+        <!--Your language preference has been updated.-->
+    </Rows>
+    <Rows id="5" name="modules/translations.go:5">
+        <value></value>
+        <!--The language preference for {1} has been updated.-->
+    </Rows>
+</translation>

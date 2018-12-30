@@ -1,0 +1,162 @@
+<translation>
+    <Rows id="1" name="modules/welcome.go:1">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="2" name="modules/welcome.go:2">
+        <value></value>
+        <!--You need to give the welcome message some content!-->
+    </Rows>
+    <Rows id="3" name="modules/welcome.go:3">
+        <value></value>
+        <!--A welcome message has to contain more than just buttons; it wasn't saved.-->
+    </Rows>
+    <Rows id="4" name="modules/welcome.go:4">
+        <value></value>
+        <!--The new welcome message has been saved!-->
+    </Rows>
+    <Rows id="5" name="modules/welcome.go:5">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="6" name="modules/welcome.go:6">
+        <value></value>
+        <!--The welcome message has been reset to default!-->
+    </Rows>
+    <Rows id="7" name="modules/welcome.go:7">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="8" name="modules/welcome.go:8">
+        <value></value>
+        <!--You need to give the goodbye message some content!-->
+    </Rows>
+    <Rows id="9" name="modules/welcome.go:9">
+        <value></value>
+        <!--A goodbye message has to contain more than just buttons; it wasn't saved.-->
+    </Rows>
+    <Rows id="10" name="modules/welcome.go:10">
+        <value></value>
+        <!--The new goodbye message has been saved!-->
+    </Rows>
+    <Rows id="11" name="modules/welcome.go:11">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="12" name="modules/welcome.go:12">
+        <value></value>
+        <!--The goodbye message has been reset to default!-->
+    </Rows>
+    <Rows id="13" name="modules/welcome.go:13">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="14" name="modules/welcome.go:14">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="15" name="modules/welcome.go:15">
+        <value></value>
+        <!--I'll be welcoming all new members from now on!-->
+    </Rows>
+    <Rows id="16" name="modules/welcome.go:16">
+        <value></value>
+        <!--I'll stay quiet when new members join.-->
+    </Rows>
+    <Rows id="17" name="modules/welcome.go:17">
+        <value></value>
+        <!--No custom welcome message has been set; members are welcomed with:-->
+    </Rows>
+    <Rows id="18" name="modules/welcome.go:18">
+        <value></value>
+        <!--Members are currently welcomed with:-->
+    </Rows>
+    <Rows id="19" name="modules/welcome.go:19">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="20" name="modules/welcome.go:20">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="21" name="modules/welcome.go:21">
+        <value></value>
+        <!--I'll be saying goodbye to any leavers from now on!-->
+    </Rows>
+    <Rows id="22" name="modules/welcome.go:22">
+        <value></value>
+        <!--I'll stay quiet when people leave.-->
+    </Rows>
+    <Rows id="23" name="modules/welcome.go:23">
+        <value></value>
+        <!--No custom goodbye message has been set; members are bidden farewell with:-->
+    </Rows>
+    <Rows id="24" name="modules/welcome.go:24">
+        <value></value>
+        <!--Members are currently bidden farewell with:-->
+    </Rows>
+    <Rows id="25" name="modules/welcome.go:25">
+        <value></value>
+        <!--Click here to prove you're human-->
+    </Rows>
+    <Rows id="26" name="modules/welcome.go:26">
+        <value></value>
+        <!--You need to give me a setting; yes/no/on/off-->
+    </Rows>
+    <Rows id="27" name="modules/welcome.go:27">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="28" name="modules/welcome.go:28">
+        <value></value>
+        <!--I'll be deleting all service messages from now on!-->
+    </Rows>
+    <Rows id="29" name="modules/welcome.go:29">
+        <value></value>
+        <!--I'll leave service messages.-->
+    </Rows>
+    <Rows id="30" name="modules/welcome.go:30">
+        <value></value>
+        <!--You need to give me a setting; yes/no/on/off-->
+    </Rows>
+    <Rows id="31" name="modules/welcome.go:31">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="32" name="modules/welcome.go:32">
+        <value></value>
+        <!--I'll be deleting all old welcome/goodbye messages from now on!-->
+    </Rows>
+    <Rows id="33" name="modules/welcome.go:33">
+        <value></value>
+        <!--I'll leave old welcome/goodbye messages.-->
+    </Rows>
+    <Rows id="34" name="modules/welcome.go:34">
+        <value></value>
+        <!--Give me a setting! y/yes/on or n/no/off-->
+    </Rows>
+    <Rows id="35" name="modules/welcome.go:35">
+        <value></value>
+        <!--That isn't a boolean - {1}-->
+    </Rows>
+    <Rows id="36" name="modules/welcome.go:36">
+        <value></value>
+        <!--I will now mute people when they join.-->
+    </Rows>
+    <Rows id="37" name="modules/welcome.go:37">
+        <value></value>
+        <!--I will no longer mute people on joining!-->
+    </Rows>
+    <Rows id="38" name="modules/welcome.go:38">
+        <value></value>
+        <!--Give me a time to mute for! eg: 2d for 2 days, 5h for 5 hours, etc.-->
+    </Rows>
+    <Rows id="39" name="modules/welcome.go:39">
+        <value></value>
+        <!--That isn't a valid time - {1}-->
+    </Rows>
+    <Rows id="40" name="modules/welcome.go:40">
+        <value></value>
+        <!--I will now mute people for {1} when they join - or until they press the unmute button in the welcome message.-->
+    </Rows>
+</translation>

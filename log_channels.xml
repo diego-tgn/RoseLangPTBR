@@ -1,0 +1,46 @@
+<translation>
+    <Rows id="1" name="modules/log_channels.go:1">
+        <value></value>
+        <!--This command can only be used in a group.-->
+    </Rows>
+    <Rows id="2" name="modules/log_channels.go:2">
+        <value></value>
+        <!--There are no log channels assigned to this chat.-->
+    </Rows>
+    <Rows id="3" name="modules/log_channels.go:3">
+        <value></value>
+        <!--Failed to get channel; have I been removed from it? I've deleted it as the go-to log channel for this chat.-->
+    </Rows>
+    <Rows id="4" name="modules/log_channels.go:4">
+        <value></value>
+        <!--I am currently logging admin actions in '{1}'.-->
+    </Rows>
+    <Rows id="5" name="modules/log_channels.go:5">
+        <value></value>
+        <!--You can only use this command in a group, or a channel.-->
+    </Rows>
+    <Rows id="6" name="modules/log_channels.go:6">
+        <value></value>
+        <!--Now, forward the previous message (your /setlog command) to the chat you wish to log here.-->
+    </Rows>
+    <Rows id="7" name="modules/log_channels.go:7">
+        <value></value>
+        <!--You need to forward the /setlog message from a channel to set that channel as this chat's log channel. More info in /help.-->
+    </Rows>
+    <Rows id="8" name="modules/log_channels.go:8">
+        <value></value>
+        <!--This channel has been set as the log channel for {1}. All new admin actions will be logged here.-->
+    </Rows>
+    <Rows id="9" name="modules/log_channels.go:9">
+        <value></value>
+        <!--Successfully set log channel to {1}. Further admin actions will be logged there.-->
+    </Rows>
+    <Rows id="10" name="modules/log_channels.go:10">
+        <value></value>
+        <!--This command can only be used in a group.-->
+    </Rows>
+    <Rows id="11" name="modules/log_channels.go:11">
+        <value></value>
+        <!--Successfully unset log channel. Admin actions will no longer be logged.-->
+    </Rows>
+</translation>

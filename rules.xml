@@ -1,0 +1,58 @@
+<translation>
+    <Rows id="1" name="modules/rules.go:1">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="2" name="modules/rules.go:2">
+        <value></value>
+        <!--You haven't set any rules yet; how about you do that first?-->
+    </Rows>
+    <Rows id="3" name="modules/rules.go:3">
+        <value></value>
+        <!--I only understand y/yes/on and n/no/off.-->
+    </Rows>
+    <Rows id="4" name="modules/rules.go:4">
+        <value></value>
+        <!--All /rules commands will send the rules to {1}.-->
+    </Rows>
+    <Rows id="5" name="modules/rules.go:5">
+        <value></value>
+        <!--Use of /rules will now send the rules to this user's PM.-->
+    </Rows>
+    <Rows id="6" name="modules/rules.go:6">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="7" name="modules/rules.go:7">
+        <value></value>
+        <!--This chat doesn't seem to have had any rules set yet... I wouldn't take that as an invitation though.-->
+    </Rows>
+    <Rows id="8" name="modules/rules.go:8">
+        <value></value>
+        <!--Click on the button to see the chat rules!-->
+    </Rows>
+    <Rows id="9" name="modules/rules.go:9">
+        <value></value>
+        <!--Rules-->
+    </Rows>
+    <Rows id="10" name="modules/rules.go:10">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="11" name="modules/rules.go:11">
+        <value></value>
+        <!--You need to give me rules to set!-->
+    </Rows>
+    <Rows id="12" name="modules/rules.go:12">
+        <value></value>
+        <!--New rules for {1} set successfully!-->
+    </Rows>
+    <Rows id="13" name="modules/rules.go:13">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="14" name="modules/rules.go:14">
+        <value></value>
+        <!--Rules for {1} were successfully cleared!-->
+    </Rows>
+</translation>

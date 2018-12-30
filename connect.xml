@@ -1,0 +1,82 @@
+<translation>
+    <Rows id="1" name="modules/connect.go:1">
+        <value></value>
+        <!--You need to be in the chat to access it's contents. Disconnecting.-->
+    </Rows>
+    <Rows id="2" name="modules/connect.go:2">
+        <value></value>
+        <!--You need to be in pm to use this.-->
+    </Rows>
+    <Rows id="3" name="modules/connect.go:3">
+        <value></value>
+        <!--You're still connected to a chat! Disconnect first.-->
+    </Rows>
+    <Rows id="4" name="modules/connect.go:4">
+        <value></value>
+        <!--There is no previous chat to connect to!-->
+    </Rows>
+    <Rows id="5" name="modules/connect.go:5">
+        <value></value>
+        <!--You can only proxy a group/supergroup.-->
+    </Rows>
+    <Rows id="6" name="modules/connect.go:6">
+        <value></value>
+        <!--You need to be _in_ the chat to connect to it.-->
+    </Rows>
+    <Rows id="7" name="modules/connect.go:7">
+        <value></value>
+        <!--You are now reconnected to {1}.-->
+    </Rows>
+    <Rows id="8" name="modules/connect.go:8">
+        <value></value>
+        <!--You need to be in pm to use this.-->
+    </Rows>
+    <Rows id="9" name="modules/connect.go:9">
+        <value></value>
+        <!--I need a chat id to connect to!-->
+    </Rows>
+    <Rows id="10" name="modules/connect.go:10">
+        <value></value>
+        <!--I expected a chat id, but this isn't a valid integer-->
+    </Rows>
+    <Rows id="11" name="modules/connect.go:11">
+        <value></value>
+        <!--You can only proxy a group/supergroup.-->
+    </Rows>
+    <Rows id="12" name="modules/connect.go:12">
+        <value></value>
+        <!--You need to be _in_ the chat to connect to it.-->
+    </Rows>
+    <Rows id="13" name="modules/connect.go:13">
+        <value></value>
+        <!--Connected to {1}! Supported commands are:\n - {2}\nAdmin only commands are:\n - {3}-->
+    </Rows>
+    <Rows id="14" name="modules/connect.go:14">
+        <value></value>
+        <!--You need to be in pm to use this.-->
+    </Rows>
+    <Rows id="15" name="modules/connect.go:15">
+        <value></value>
+        <!--You aren't connected to any chats! Anything you save here is for your eyes only :)-->
+    </Rows>
+    <Rows id="16" name="modules/connect.go:16">
+        <value></value>
+        <!--You are currently connected to {1}.\nSupported commands are:\n - {2}\nAdmin only commands are:\n - {3}-->
+    </Rows>
+    <Rows id="17" name="modules/connect.go:17">
+        <value></value>
+        <!--You need to be in pm to use this.-->
+    </Rows>
+    <Rows id="18" name="modules/connect.go:18">
+        <value></value>
+        <!--Disconnected from chat.-->
+    </Rows>
+    <Rows id="19" name="modules/connect.go:19">
+        <value></value>
+        <!--You need to be an admin to do this.-->
+    </Rows>
+    <Rows id="20" name="modules/connect.go:20">
+        <value></value>
+        <!--You need to be an admin to do this.-->
+    </Rows>
+</translation>

@@ -1,0 +1,319 @@
+<translation>
+    <Rows id="1" name="modules/federations.go:1">
+        <value></value>
+        <!--You aren't the creator of any feds to act in.-->
+    </Rows>
+    <Rows id="2" name="modules/federations.go:2">
+        <value></value>
+        <!--This chat isn't in any federations.-->
+    </Rows>
+    <Rows id="3" name="modules/federations.go:3">
+        <value></value>
+        <!--Only the fed creator can export the ban list.-->
+    </Rows>
+    <Rows id="4" name="modules/federations.go:4">
+        <value></value>
+        <!--You can only perform one fedbanlist related command every 30 minutes. Please wait.-->
+    </Rows>
+    <Rows id="5" name="modules/federations.go:5">
+        <value></value>
+        <!--You need to reply to the document containing the banlist, as a .txt file.-->
+    </Rows>
+    <Rows id="6" name="modules/federations.go:6">
+        <value></value>
+        <!--Only the fed creator can import a ban list.-->
+    </Rows>
+    <Rows id="7" name="modules/federations.go:7">
+        <value></value>
+        <!--You can only perform one fedbanlist related command every 30 minutes. Please wait.-->
+    </Rows>
+    <Rows id="8" name="modules/federations.go:8">
+        <value></value>
+        <!--Your ban file is invalidly formatted. Error: {1}-->
+    </Rows>
+    <Rows id="9" name="modules/federations.go:9">
+        <value></value>
+        <!--Ban list has been successfully imported. {1} people banned.-->
+    </Rows>
+    <Rows id="10" name="modules/federations.go:10">
+        <value></value>
+        <!--FedCreator {1} has imported {2} fbanned users into {3}-->
+    </Rows>
+    <Rows id="11" name="modules/federations.go:11">
+        <value></value>
+        <!--User {1} is banned in the current federation ({2}), and so has been removed.-->
+    </Rows>
+    <Rows id="12" name="modules/federations.go:12">
+        <value></value>
+        <!--
+<b>Reason</b>: {1}-->
+    </Rows>
+    <Rows id="13" name="modules/federations.go:13">
+        <value></value>
+        <!--Create your federation in my PM - not in a group.-->
+    </Rows>
+    <Rows id="14" name="modules/federations.go:14">
+        <value></value>
+        <!--You need to give your federation a name! Federation names can be up to 64 characters long.-->
+    </Rows>
+    <Rows id="15" name="modules/federations.go:15">
+        <value></value>
+        <!--Federation names cannot be over 64 characters long.-->
+    </Rows>
+    <Rows id="16" name="modules/federations.go:16">
+        <value></value>
+        <!--Created new federation with FedID: <code>{1}</code>.
+Use this ID to join the federation! eg:
+<code>/joinfed {2}</code>-->
+    </Rows>
+    <Rows id="17" name="modules/federations.go:17">
+        <value></value>
+        <!--Delete your federation in my PM - not in a group.-->
+    </Rows>
+    <Rows id="18" name="modules/federations.go:18">
+        <value></value>
+        <!--It doesn't look like you have a federation yet!-->
+    </Rows>
+    <Rows id="19" name="modules/federations.go:19">
+        <value></value>
+        <!--You have deleted your federation! All chats linked to it are now federation-less.-->
+    </Rows>
+    <Rows id="20" name="modules/federations.go:20">
+        <value></value>
+        <!--You need to specify which federation you're asking about by giving me a FedID!-->
+    </Rows>
+    <Rows id="21" name="modules/federations.go:21">
+        <value></value>
+        <!--This isn't a valid FedID format!-->
+    </Rows>
+    <Rows id="22" name="modules/federations.go:22">
+        <value></value>
+        <!--There is no federation with this FedID.-->
+    </Rows>
+    <Rows id="23" name="modules/federations.go:23">
+        <value></value>
+        <!--Fed info:
+FedID: <code>{1}</code>
+Name: {2}
+Creator: {3}
+Number of admins: <code>{4}</code>
+Number of bans: <code>{5}</code>
+Number of connected chats: <code>{6}</code>
+-->
+    </Rows>
+    <Rows id="24" name="modules/federations.go:24">
+        <value></value>
+        <!--Only group creators can join federations.-->
+    </Rows>
+    <Rows id="25" name="modules/federations.go:25">
+        <value></value>
+        <!--You need to specify which federation you're asking about by giving me a FedID!-->
+    </Rows>
+    <Rows id="26" name="modules/federations.go:26">
+        <value></value>
+        <!--This isn't a valid FedID format!-->
+    </Rows>
+    <Rows id="27" name="modules/federations.go:27">
+        <value></value>
+        <!--This FedID does not refer to an existing federation.-->
+    </Rows>
+    <Rows id="28" name="modules/federations.go:28">
+        <value></value>
+        <!--Successfully joined the \"{1}\" federation! All new federation bans will now also remove the members from this chat.-->
+    </Rows>
+    <Rows id="29" name="modules/federations.go:29">
+        <value></value>
+        <!--Only group creators can leave federations.-->
+    </Rows>
+    <Rows id="30" name="modules/federations.go:30">
+        <value></value>
+        <!--This chat isn't currently in any federations!-->
+    </Rows>
+    <Rows id="31" name="modules/federations.go:31">
+        <value></value>
+        <!--Chat {1} has left the \"{2}\" federation.-->
+    </Rows>
+    <Rows id="32" name="modules/federations.go:32">
+        <value></value>
+        <!--Only federation creators can promote people, and you don't seem to have a federation to promote to!-->
+    </Rows>
+    <Rows id="33" name="modules/federations.go:33">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="34" name="modules/federations.go:34">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="35" name="modules/federations.go:35">
+        <value></value>
+        <!--User {1} is now an admin of {2} ({3})-->
+    </Rows>
+    <Rows id="36" name="modules/federations.go:36">
+        <value></value>
+        <!--Only federation creators can demote people, and you don't seem to have a federation to demote from!-->
+    </Rows>
+    <Rows id="37" name="modules/federations.go:37">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="38" name="modules/federations.go:38">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="39" name="modules/federations.go:39">
+        <value></value>
+        <!--But... You're the fed creator. I'm not demoting you!-->
+    </Rows>
+    <Rows id="40" name="modules/federations.go:40">
+        <value></value>
+        <!--User {1} is no longer an admin of {2} ({3})-->
+    </Rows>
+    <Rows id="41" name="modules/federations.go:41">
+        <value></value>
+        <!--You need to give me a FedID to check, or be a federation creator to use this command!-->
+    </Rows>
+    <Rows id="42" name="modules/federations.go:42">
+        <value></value>
+        <!--This isn't a valid FedID!-->
+    </Rows>
+    <Rows id="43" name="modules/federations.go:43">
+        <value></value>
+        <!--This federation has no admins other than the federation creator.-->
+    </Rows>
+    <Rows id="44" name="modules/federations.go:44">
+        <value></value>
+        <!--Admins in this federation:-->
+    </Rows>
+    <Rows id="45" name="modules/federations.go:45">
+        <value></value>
+        <!--You aren't a federation admin for {1}!-->
+    </Rows>
+    <Rows id="46" name="modules/federations.go:46">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="47" name="modules/federations.go:47">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="48" name="modules/federations.go:48">
+        <value></value>
+        <!--Oh you're a funny one aren't you! I am _not_ going to fedban myself.-->
+    </Rows>
+    <Rows id="49" name="modules/federations.go:49">
+        <value></value>
+        <!--I'm not banning one of my sudo users.-->
+    </Rows>
+    <Rows id="50" name="modules/federations.go:50">
+        <value></value>
+        <!--I'm not banning a fed admin from their own fed! ({1})-->
+    </Rows>
+    <Rows id="51" name="modules/federations.go:51">
+        <value></value>
+        <!--Beginning federation ban of {1} in {2}.-->
+    </Rows>
+    <Rows id="52" name="modules/federations.go:52">
+        <value></value>
+        <!--User {1} is already banned in {2}. There is no reason set for their fedban yet, so feel free to set one.-->
+    </Rows>
+    <Rows id="53" name="modules/federations.go:53">
+        <value></value>
+        <!--User {1} is already banned in {2}, with reason:\n<code>{3}</code>.-->
+    </Rows>
+    <Rows id="54" name="modules/federations.go:54">
+        <value></value>
+        <!--User {1} is already banned in {2}, but had no reason set.\nThe reason has now been updated.-->
+    </Rows>
+    <Rows id="55" name="modules/federations.go:55">
+        <value></value>
+        <!--FedAdmin {1} has updated the reason for {2}'s fedban in {3} to:
+{4}-->
+    </Rows>
+    <Rows id="56" name="modules/federations.go:56">
+        <value></value>
+        <!--User {1} is already banned in {2}, with reason:\n<code>{3}</code>.\nThe reason has now been updated.-->
+    </Rows>
+    <Rows id="57" name="modules/federations.go:57">
+        <value></value>
+        <!--FedAdmin {1} has updated the reason for {2}'s fedban in {3} to:
+{4}-->
+    </Rows>
+    <Rows id="58" name="modules/federations.go:58">
+        <value></value>
+        <!--User {1} has been fedbanned by {2} in {3}. No reason given.-->
+    </Rows>
+    <Rows id="59" name="modules/federations.go:59">
+        <value></value>
+        <!--User {1} has been fedbanned in {2}, because of:\n{3}-->
+    </Rows>
+    <Rows id="60" name="modules/federations.go:60">
+        <value></value>
+        <!--User {1} has been fedbanned by {2} in {3}, because of:
+{4}-->
+    </Rows>
+    <Rows id="61" name="modules/federations.go:61">
+        <value></value>
+        <!--User {1} has been fedbanned in {2}. No reason given.-->
+    </Rows>
+    <Rows id="62" name="modules/federations.go:62">
+        <value></value>
+        <!--You aren't an admin in {1}!-->
+    </Rows>
+    <Rows id="63" name="modules/federations.go:63">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="64" name="modules/federations.go:64">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="65" name="modules/federations.go:65">
+        <value></value>
+        <!--Oh you're a funny one aren't you! How do you think I would have fbanned myself hm?.-->
+    </Rows>
+    <Rows id="66" name="modules/federations.go:66">
+        <value></value>
+        <!--This user isn't banned in the current federation, {1}. ({2})-->
+    </Rows>
+    <Rows id="67" name="modules/federations.go:67">
+        <value></value>
+        <!--Beginning federation unban in {1}.-->
+    </Rows>
+    <Rows id="68" name="modules/federations.go:68">
+        <value></value>
+        <!--User {1} has been unfedbanned in {2}-->
+    </Rows>
+    <Rows id="69" name="modules/federations.go:69">
+        <value></value>
+        <!--User {1} has been unfedbanned by {2} in {3}-->
+    </Rows>
+    <Rows id="70" name="modules/federations.go:70">
+        <value></value>
+        <!--This chat isn't part of any feds yet!-->
+    </Rows>
+    <Rows id="71" name="modules/federations.go:71">
+        <value></value>
+        <!--Chat {1} is part of the following federation: {2} (ID: <code>{3}</code>)-->
+    </Rows>
+    <Rows id="72" name="modules/federations.go:72">
+        <value></value>
+        <!--The fed log chat has to be a group.-->
+    </Rows>
+    <Rows id="73" name="modules/federations.go:73">
+        <value></value>
+        <!--Only fed creators can set a fed chat - but you don't have a federation!-->
+    </Rows>
+    <Rows id="74" name="modules/federations.go:74">
+        <value></value>
+        <!--This chat has been set as the fed chat - all fed related actions will be logged here.-->
+    </Rows>
+    <Rows id="75" name="modules/federations.go:75">
+        <value></value>
+        <!--Only fed creators can unset a fed chat - but you don't have a federation!-->
+    </Rows>
+    <Rows id="76" name="modules/federations.go:76">
+        <value></value>
+        <!--The {1} federation has had it's log chat unset.-->
+    </Rows>
+</translation>

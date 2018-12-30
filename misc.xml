@@ -1,0 +1,54 @@
+<translation>
+    <Rows id="1" name="modules/misc.go:1">
+        <value></value>
+        <!--
+You can use markdown to make your messages more expressive. This is the markdown currently supported:
+
+<code>{1}</code> backticks allow you to wrap your words in monospace fonts. Shows as: <code>code words</code>
+<code>*bold words*</code> asterixes are used for bold font. Shows as: <b>bold words</b>
+<code>_italic words_</code> underscores are used for italics. Shows as: <i>italic words</i>
+<code>[hyperlink](example.com)</code> this is used for hyperlinks, and will show as such: <a href="example.com">hyperlink</a>. Make sure not to add any extra spaces between the ] and the ( or it won't be valid markdown.
+
+Now, if you wanted to have buttons on your message, you could use this special syntax:
+<code>[button](buttonurl://example.com)</code>
+This will create a button named "button" which redirects the user to <code>example.com</code> upon clicking.
+If you would like to add two buttons on the same row, add <code>:same</code> at the end of your link; it'll set it on the same line as the other one. For example:
+<code>[button](buttonurl://example.com)
+[button 2](buttonurl://example.com:same)
+[button 3](buttonurl://example.com)</code>
+will create two buttons on the same line (buttons 1 and 2), and a last one (button 3) on a second line.
+
+Try these out on notes, filters, welcome messages or even rules!
+-->
+    </Rows>
+    <Rows id="2" name="modules/misc.go:2">
+        <value></value>
+        <!--
+So you want to donate? Amazing!
+It took a lot of work for my creator to get me to where I am now - so if you have some money to spare, and want to show your support; Donate!
+After all, server fees don't pay themselves - so every little helps! All donation money goes straight to funding the VPS, and of course, boosting morale - always nice to see your work is appreciated :)
+You can donate on paypal <a href="http://paypal.me/PaulSonOfLars">here</a>.
+-->
+    </Rows>
+    <Rows id="3" name="modules/misc.go:3">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="4" name="modules/misc.go:4">
+        <value></value>
+        <!--This chat's id is: <code>{1}</code>-->
+    </Rows>
+    <Rows id="5" name="modules/misc.go:5">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="6" name="modules/misc.go:6">
+        <value></value>
+        <!--User {1}'s id is <code>{2}</code>.
+-->
+    </Rows>
+    <Rows id="7" name="modules/misc.go:7">
+        <value></value>
+        <!--The forwarded user, {1}, has an id of <code>{2}</code>-->
+    </Rows>
+</translation>

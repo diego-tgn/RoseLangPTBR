@@ -1,0 +1,101 @@
+<translation>
+    <Rows id="1" name="modules/warns.go:1">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="2" name="modules/warns.go:2">
+        <value></value>
+        <!--There is a {1} warning limit in {2}. When that limit has been exceeded, the user will be {3}.-->
+    </Rows>
+    <Rows id="3" name="modules/warns.go:3">
+        <value></value>
+        <!--I'm not going to warn an admin!-->
+    </Rows>
+    <Rows id="4" name="modules/warns.go:4">
+        <value></value>
+        <!--That's {1}/{2} warnings; {3} is out!-->
+    </Rows>
+    <Rows id="5" name="modules/warns.go:5">
+        <value></value>
+        <!--User {1} has {2}/{3} warnings; be careful!-->
+    </Rows>
+    <Rows id="6" name="modules/warns.go:6">
+        <value></value>
+        <!--
+The latest warn was because:
+{1}-->
+    </Rows>
+    <Rows id="7" name="modules/warns.go:7">
+        <value></value>
+        <!--Remove warn (admin only)-->
+    </Rows>
+    <Rows id="8" name="modules/warns.go:8">
+        <value></value>
+        <!--User {1} has no warnings!-->
+    </Rows>
+    <Rows id="9" name="modules/warns.go:9">
+        <value></value>
+        <!--Removed {1}'s last warn.-->
+    </Rows>
+    <Rows id="10" name="modules/warns.go:10">
+        <value></value>
+        <!--Warning removed by {1}.-->
+    </Rows>
+    <Rows id="11" name="modules/warns.go:11">
+        <value></value>
+        <!--User {1} has no warnings to delete!-->
+    </Rows>
+    <Rows id="12" name="modules/warns.go:12">
+        <value></value>
+        <!--User {1} has had all their previous warns removed.-->
+    </Rows>
+    <Rows id="13" name="modules/warns.go:13">
+        <value></value>
+        <!--User {1} has no warnings!-->
+    </Rows>
+    <Rows id="14" name="modules/warns.go:14">
+        <value></value>
+        <!--User {1} has {2}/{3} warnings. Reasons are:-->
+    </Rows>
+    <Rows id="15" name="modules/warns.go:15">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="16" name="modules/warns.go:16">
+        <value></value>
+        <!--You need to specify an action to take upon too many warns. Current modes are: {1}-->
+    </Rows>
+    <Rows id="17" name="modules/warns.go:17">
+        <value></value>
+        <!--Unknown type '{1}'. Please use one of: {2}-->
+    </Rows>
+    <Rows id="18" name="modules/warns.go:18">
+        <value></value>
+        <!--Looks like you're trying to set a temporary value for warnings, but haven't specified a time; use <code>/setwarnmode tban &lt;timevalue&gt;</code>.
+{1}-->
+    </Rows>
+    <Rows id="19" name="modules/warns.go:19">
+        <value></value>
+        <!--Updated warning mode to: {1}-->
+    </Rows>
+    <Rows id="20" name="modules/warns.go:20">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="21" name="modules/warns.go:21">
+        <value></value>
+        <!--Please specify how many warns a user should be allowed to receive before being acted upon.-->
+    </Rows>
+    <Rows id="22" name="modules/warns.go:22">
+        <value></value>
+        <!--{1} is not a valid integer.-->
+    </Rows>
+    <Rows id="23" name="modules/warns.go:23">
+        <value></value>
+        <!--The warning limit has to be set to a number bigger than 0.-->
+    </Rows>
+    <Rows id="24" name="modules/warns.go:24">
+        <value></value>
+        <!--Warn limit settings for {1} have been updated to {2}.-->
+    </Rows>
+</translation>

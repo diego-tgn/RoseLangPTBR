@@ -1,0 +1,63 @@
+<translation>
+    <Rows id="1" name="modules/antiflood.go:1">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="2" name="modules/antiflood.go:2">
+        <value></value>
+        <!--This chat is not currently enforcing flood control.-->
+    </Rows>
+    <Rows id="3" name="modules/antiflood.go:3">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="4" name="modules/antiflood.go:4">
+        <value></value>
+        <!--I expected some arguments! Either off, or an integer. eg: `/setflood 5`, or `/setflood off`-->
+    </Rows>
+    <Rows id="5" name="modules/antiflood.go:5">
+        <value></value>
+        <!--Antiflood has been disabled.-->
+    </Rows>
+    <Rows id="6" name="modules/antiflood.go:6">
+        <value></value>
+        <!--{1} is not a valid integer.-->
+    </Rows>
+    <Rows id="7" name="modules/antiflood.go:7">
+        <value></value>
+        <!--Antiflood has been disabled.-->
+    </Rows>
+    <Rows id="8" name="modules/antiflood.go:8">
+        <value></value>
+        <!--Antiflood settings for {1} have been updated to {2}-->
+    </Rows>
+    <Rows id="9" name="modules/antiflood.go:9">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="10" name="modules/antiflood.go:10">
+        <value></value>
+        <!--You need to specify an action to take upon flooding. Current modes are: {1}-->
+    </Rows>
+    <Rows id="11" name="modules/antiflood.go:11">
+        <value></value>
+        <!--Unknown type '{1}'. Please use one of: {2}-->
+    </Rows>
+    <Rows id="12" name="modules/antiflood.go:12">
+        <value></value>
+        <!--Looks like you're trying to set a temporary value for antiflood, but haven't specified a time; use <code>/setfloodmode tban &lt;timevalue&gt;</code>.
+{1}-->
+    </Rows>
+    <Rows id="13" name="modules/antiflood.go:13">
+        <value></value>
+        <!--That isn't a valid time - {1}-->
+    </Rows>
+    <Rows id="14" name="modules/antiflood.go:14">
+        <value></value>
+        <!--Updated antiflood reaction in {1} to: {2}-->
+    </Rows>
+    <Rows id="15" name="modules/antiflood.go:15">
+        <value></value>
+        <!--Yeah, I don't like your flooding. Bye {1}!-->
+    </Rows>
+</translation>

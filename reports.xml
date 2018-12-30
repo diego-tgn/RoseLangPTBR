@@ -1,0 +1,22 @@
+<translation>
+    <Rows id="1" name="modules/reports.go:1">
+        <value></value>
+        <!--You need to give me a setting; yes/no/on/off-->
+    </Rows>
+    <Rows id="2" name="modules/reports.go:2">
+        <value></value>
+        <!--Your input was not recognised as one of: yes/no/on/off-->
+    </Rows>
+    <Rows id="3" name="modules/reports.go:3">
+        <value></value>
+        <!--Users will now be able to report messages.-->
+    </Rows>
+    <Rows id="4" name="modules/reports.go:4">
+        <value></value>
+        <!--Users will no longer be able to report via @admin or /report.-->
+    </Rows>
+    <Rows id="5" name="modules/reports.go:5">
+        <value></value>
+        <!--Reported {1} to admins.-->
+    </Rows>
+</translation>

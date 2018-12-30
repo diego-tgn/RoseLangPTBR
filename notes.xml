@@ -1,0 +1,59 @@
+<translation>
+    <Rows id="1" name="modules/notes.go:1">
+        <value></value>
+        <!--not enough args-->
+    </Rows>
+    <Rows id="2" name="modules/notes.go:2">
+        <value></value>
+        <!--You haven't saved any notes with this name yet!-->
+    </Rows>
+    <Rows id="3" name="modules/notes.go:3">
+        <value></value>
+        <!--Note '{1}' deleted!-->
+    </Rows>
+    <Rows id="4" name="modules/notes.go:4">
+        <value></value>
+        <!--No notes in {1}!-->
+    </Rows>
+    <Rows id="5" name="modules/notes.go:5">
+        <value></value>
+        <!--List of notes in {1}:-->
+    </Rows>
+    <Rows id="6" name="modules/notes.go:6">
+        <value></value>
+        <!--notes, continued:-->
+    </Rows>
+    <Rows id="7" name="modules/notes.go:7">
+        <value></value>
+        <!--
+You can retrieve these notes by using <code>/get notename</code>, or <code>#notename</code>-->
+    </Rows>
+    <Rows id="8" name="modules/notes.go:8">
+        <value></value>
+        <!--You need to give the note a name!-->
+    </Rows>
+    <Rows id="9" name="modules/notes.go:9">
+        <value></value>
+        <!--You need to give the note some content!-->
+    </Rows>
+    <Rows id="10" name="modules/notes.go:10">
+        <value></value>
+        <!--A note has to contain more than just buttons; it wasn't saved.-->
+    </Rows>
+    <Rows id="11" name="modules/notes.go:11">
+        <value></value>
+        <!--Saved note {1}.-->
+    </Rows>
+    <Rows id="12" name="modules/notes.go:12">
+        <value></value>
+        <!--Note not found.-->
+    </Rows>
+    <Rows id="13" name="modules/notes.go:13">
+        <value></value>
+        <!--not enough args-->
+    </Rows>
+    <Rows id="14" name="modules/notes.go:14">
+        <value></value>
+        <!--You need to be in the chat to access it's contents.-->
+    </Rows>
+</translation>

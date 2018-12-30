@@ -1,0 +1,70 @@
+<translation>
+    <Rows id="1" name="modules/admin.go:1">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="2" name="modules/admin.go:2">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="3" name="modules/admin.go:3">
+        <value></value>
+        <!--You need to reply to a message to pin it!-->
+    </Rows>
+    <Rows id="4" name="modules/admin.go:4">
+        <value></value>
+        <!--I didn't quite understand what you wanted me to do - you can tell to pin one of loud/violent/silent/quiet!-->
+    </Rows>
+    <Rows id="5" name="modules/admin.go:5">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="6" name="modules/admin.go:6">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="7" name="modules/admin.go:7">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="8" name="modules/admin.go:8">
+        <value></value>
+        <!--This user isn't an admin anyway!-->
+    </Rows>
+    <Rows id="9" name="modules/admin.go:9">
+        <value></value>
+        <!--I am not going to demote myself.-->
+    </Rows>
+    <Rows id="10" name="modules/admin.go:10">
+        <value></value>
+        <!--Could not demote.-->
+    </Rows>
+    <Rows id="11" name="modules/admin.go:11">
+        <value></value>
+        <!--Demoted!-->
+    </Rows>
+    <Rows id="12" name="modules/admin.go:12">
+        <value></value>
+        <!--This command is made to be used in groups!-->
+    </Rows>
+    <Rows id="13" name="modules/admin.go:13">
+        <value></value>
+        <!--I don't know who you're talking about, you're going to need to specify a user...!-->
+    </Rows>
+    <Rows id="14" name="modules/admin.go:14">
+        <value></value>
+        <!--Could not find a user by this name; are you sure I've seen them before?-->
+    </Rows>
+    <Rows id="15" name="modules/admin.go:15">
+        <value></value>
+        <!--Pffff, I wish I could just promote myself.-->
+    </Rows>
+    <Rows id="16" name="modules/admin.go:16">
+        <value></value>
+        <!--Could not promote.-->
+    </Rows>
+    <Rows id="17" name="modules/admin.go:17">
+        <value></value>
+        <!--Promoted!-->
+    </Rows>
+</translation>

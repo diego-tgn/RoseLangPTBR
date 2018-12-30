@@ -1,0 +1,74 @@
+<translation>
+    <Rows id="1" name="modules/blacklists.go:1">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="2" name="modules/blacklists.go:2">
+        <value></value>
+        <!--You need to provide a blacklist trigger and reason!\neg: <code>/addblacklist \"the admins suck\" Respect your admins!</code>-->
+    </Rows>
+    <Rows id="3" name="modules/blacklists.go:3">
+        <value></value>
+        <!--Added blacklist filter '{1}'!-->
+    </Rows>
+    <Rows id="4" name="modules/blacklists.go:4">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="5" name="modules/blacklists.go:5">
+        <value></value>
+        <!--You need to specify the blacklist filter to remove-->
+    </Rows>
+    <Rows id="6" name="modules/blacklists.go:6">
+        <value></value>
+        <!--You haven't saved any blacklist filters on this word yet!-->
+    </Rows>
+    <Rows id="7" name="modules/blacklists.go:7">
+        <value></value>
+        <!--I will no longer blacklist '{1}'.-->
+    </Rows>
+    <Rows id="8" name="modules/blacklists.go:8">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="9" name="modules/blacklists.go:9">
+        <value></value>
+        <!--No blacklist filters active in {1}!-->
+    </Rows>
+    <Rows id="10" name="modules/blacklists.go:10">
+        <value></value>
+        <!--The following blacklist filters are currently active in {1}:-->
+    </Rows>
+    <Rows id="11" name="modules/blacklists.go:11">
+        <value></value>
+        <!--blacklist, continued:-->
+    </Rows>
+    <Rows id="12" name="modules/blacklists.go:12">
+        <value></value>
+        <!--Automated blacklist action, due to a match on: {1}-->
+    </Rows>
+    <Rows id="13" name="modules/blacklists.go:13">
+        <value></value>
+        <!--This command is made to be used in group chats, not in pm!-->
+    </Rows>
+    <Rows id="14" name="modules/blacklists.go:14">
+        <value></value>
+        <!--Your current blacklist preference is just to delete blacklisted words.
+
+If you want to change this setting, you will need to specify an action to take on blacklisted words. Possible modes are: {1}-->
+    </Rows>
+    <Rows id="15" name="modules/blacklists.go:15">
+        <value></value>
+        <!--Your current blacklist preference is to {1} users on blacklisted words, and delete the message.
+
+If you want to change this setting, you will need to specify an action to take on blacklisted words. Possible modes are: {2}-->
+    </Rows>
+    <Rows id="16" name="modules/blacklists.go:16">
+        <value></value>
+        <!--Unknown type {1}. Please use one of: {2}-->
+    </Rows>
+    <Rows id="17" name="modules/blacklists.go:17">
+        <value></value>
+        <!--Updated blacklist reaction in {1} to: {2}. Users who say any blacklisted words will now have their message deleted, and then be {3}-->
+    </Rows>
+</translation>
